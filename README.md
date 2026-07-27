@@ -1,31 +1,30 @@
 <div align="center">
 
-# Olá, sou o Emanuel 👋
+# Emanuel Lázaro
 
-### Desenvolvedor Web & Mobile | ASP.NET Core · Blazor · .NET MAUI
+### Programador | ASP.NET Core · Blazor · .NET MAUI
 
-Transformo ideias em aplicações modernas, com foco em performance e experiência do utilizador.
+Desenho e desenvolvo aplicações web e mobile de raiz da arquitetura ao deployment com foco em performance e experiência do utilizador.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-emanuellazaro.elz.pt-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emanuellazaro.elz.pt/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Lázaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-lázaro-6a744735a)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-emanuellazaro.elz.pt-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emanuellazaro.elz.pt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_L%C3%A1zaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-lázaro-6a744735a)
 [![Email](https://img.shields.io/badge/Email-emanuellazaro833%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuellazaro833@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-Sou estudante finalista de **Programação (INTEP — Instituto Tecnológico e Profissional, Figueira da Foz)** e developer autónomo, a construir e manter vários produtos em produção — de sistemas POS SaaS a plataformas de jogos e e-commerce, com forte ligação ao mercado de São Tomé e Príncipe e a Portugal.
+Sou Programador, formado em **Programação pelo INTEP - Instituto Tecnológico e Profissional**, com passagem por mobilidade **Erasmus+** em Itália. Desenvolvo e mantenho produtos em produção de sistemas POS SaaS a plataformas de jogos e e-commerce com forte ligação aos mercados de **Portugal** e **São Tomé e Príncipe**.
 
-- 🎓 A concluir mobilidade **Erasmus+** em Itália
-- 🛠️ Especializado em tecnologias **Microsoft**: ASP.NET Core, Blazor (Server & WASM), .NET MAUI, EF Core
-- 🌍 A construir produtos para os mercados de **Portugal** e **São Tomé e Príncipe**
-- 📫 Disponível para novas oportunidades e projetos freelance
+Trabalho sobretudo no ecossistema **Microsoft**: construo interfaces web e mobile com **Blazor (Server e WebAssembly)** e **.NET MAUI** a partir de uma única base de código C#, apoiadas por **SignalR** para comunicação em tempo real e **EF Core** para modelação de dados sobre **MySQL** e **SQL Server**. As aplicações são publicadas como **PWA instaláveis**, com infraestrutura própria em servidores **Ubuntu**, geridas com **Nginx** e protegidas por **Cloudflare**. Tenho também experiência com **PHP** e **Python** em projetos de menor escala, com **Git** a acompanhar todo o ciclo de desenvolvimento.
+
+Disponível para novas oportunidades.
 
 ---
 
-### 🧰 Stack Tecnológico
+### Stack Tecnológico
 
 <div align="center">
 
@@ -48,20 +47,20 @@ Sou estudante finalista de **Programação (INTEP — Instituto Tecnológico e P
 
 ---
 
-### 💼 Projetos em Destaque
+### Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%">
 
-**🃏 [BiscaPlay](https://bisca61play.elz.pt)**
+**[BiscaPlay](https://bisca61play.elz.pt)**
 PWA multiplayer do jogo tradicional santomense Bisca61, com chat de voz WebRTC via servidor TURN próprio.
 `Blazor WASM` `ASP.NET Core` `SignalR` `MySQL`
 
 </td>
 <td width="50%">
 
-**🧾 [Kesh](https://kesh.elz.pt)**
+**[Kesh](https://kesh.elz.pt)**
 Sistema POS SaaS multitenant instalável como PWA, com módulo fiscal para e-Fatura STP e suporte a impressoras térmicas.
 `Blazor WASM` `ASP.NET Core` `MudBlazor` `MySQL`
 
@@ -70,30 +69,23 @@ Sistema POS SaaS multitenant instalável como PWA, com módulo fiscal para e-Fat
 <tr>
 <td width="50%">
 
-**👕 FardoSTP**
+**FardoSTP**
 App mobile de live commerce para venda de fardos de roupa em São Tomé, inspirada no modelo do TikTok.
 `.NET MAUI` `ASP.NET Core 10` `SignalR` `MediaMTX`
 
 </td>
 <td width="50%">
 
-**🎓 [SchoolSync](https://schoolsync.elz.pt)**
-Plataforma de gestão escolar (projeto de PAP) com chat em tempo real e exportação de pautas em PDF.
+**[SchoolSync](https://schoolsync.elz.pt)**
+Plataforma de gestão escolar (projeto de PAP) com chat em tempo real.
 `Blazor Server` `SignalR` `MudBlazor` `SQL Server`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-**🛒 Mercado STP**
-Marketplace de dropshipping para o mercado santomense, inspirado em Jumia/AliExpress.
-`Blazor WASM` `EF Core` `Cloudflare R2` `Africa's Talking SMS`
-
-</td>
-<td width="50%">
-
-**📚 [PRAGMATICando](https://pragmaticando.elz.pt)**
+**[PRAGMATICando](https://pragmaticando.elz.pt)**
 Plataforma de aprendizagem de Português para falantes não-nativos, em parceria com a Universidade de Coimbra.
 `PHP` `MySQL` `Apache`
 
@@ -103,19 +95,26 @@ Plataforma de aprendizagem de Português para falantes não-nativos, em parceria
 
 ---
 
-### 📊 Estatísticas GitHub
+### Estatísticas GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emanuellazaro40&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellazaro40&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emanuellazaro40&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellazaro40&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 ---
 
+### Vamos falar?
+
+Estou disponível para novas oportunidades e projetos freelance. Se procuras um programador para o teu produto ou equipa, entra em contacto.
+
 <div align="center">
 
-📍 Figueira da Foz, Portugal &nbsp;|&nbsp; 💬 Português (PT) &nbsp;|&nbsp; ⚡ Disponível para novos projetos
+[![Email](https://img.shields.io/badge/Contactar-emanuellazaro833%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuellazaro833@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-lázaro-6a744735a)
+
+Figueira da Foz, Portugal
 
 </div>
