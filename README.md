@@ -99,8 +99,12 @@ Plataforma de aprendizagem de Português para falantes não-nativos, em parceria
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emanuellazaro40&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellazaro40&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emanuellazaro40&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuellazaro40&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Emanuellazaro40&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Emanuellazaro40&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
